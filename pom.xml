@@ -15,6 +15,10 @@
 
     <repositories>
         <repository>
+            <id>pgm-repo</id>
+            <url>https://repo.pgm.fyi/repository/occ-snapshots/</url>
+        </repository>
+        <repository>
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
         </repository>
